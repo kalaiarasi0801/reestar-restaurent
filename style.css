@@ -1,0 +1,123 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.section-one {
+    background-color: black;
+    color: white;
+    text-align: center;
+
+    height: 80px;
+    padding: 10px;
+
+}
+
+.section-two {
+    margin-top: 10px;
+
+    width: 200px;
+    border: black solid 2px;
+    text-align: center;
+    display: inline-block;
+
+}
+
+.section-two__button {
+    background-color: black;
+    color: white;
+}
+
+.section-three {
+    margin-top: 10px;
+
+    width: 200px;
+    border: black solid 2px;
+    text-align: center;
+    display: inline-block;
+
+}
+
+.section-three__button {
+    background-color: black;
+    color: white;
+}
+
+.section-four {
+    margin-top: 10px;
+
+    width: 200px;
+    border: black solid 2px;
+    text-align: center;
+    display: inline-block;
+
+}
+
+.section-four__button {
+    background-color: black;
+    color: white;
+}
+
+.section-five {
+    margin-top: 10px;
+
+    width: 200px;
+    border: black solid 2px;
+    text-align: center;
+    display: inline-block;
+
+}
+
+.section-five__button {
+    background-color: black;
+    color: white;
+
+}
+
+
+.section-six {
+
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    height: 150px;
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+.section-six__button {
+    background-color: yellow;
+    padding-left: 70px;
+
+    padding-right: 70px;
+    margin-top: 5px;
+
+}
+
+
+
+.section-six__table {
+    display: inline-block;
+    padding-top: 10px;
+}
+
+.container {
+    text-align: center;
+}
+
+.section-two img{
+    width: 100%;
+}
+
+.section-three img{
+    width: 100%;
+}
+
+.section-four img{
+    width: 100%;
+}
+
+.section-five img{
+    width: 100%;
+}
